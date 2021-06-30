@@ -1,4 +1,4 @@
-# Zeron-Client-
+# Zenon-Client-
 Zenon Client is a feature-rich FPS boosting client for minecraft bedrock. This pack will cause a considerable change in fps even on a very low-end device. Zenon Client includes various fps boosting features so your gameplay experience never get ruined.
 
 
